@@ -46,7 +46,7 @@ rm -f /root/cpanel_update
 ```bash
 https://youtu.be/A_h3KcRCogY?si=pzOP467P25qKk_4n
 ```
-[![install cPanel nulled](https://raw.githubusercontent.com/tactu2023/cpanel-nulled/main/img/mqdefault.jpg)](https://youtu.be/A_h3KcRCogY?si=pzOP467P25qKk_4n "install cPanel nulled")
+[![install cPanel nulled](https://raw.githubusercontent.com/X4xxx/cpanel-nulled/main/img/mqdefault.jpg)](https://youtu.be/A_h3KcRCogY?si=pzOP467P25qKk_4n "install cPanel nulled")
 # Cannot execute binary file exec format error
 If you use an i*x86 or aarch64 (ARM architectures) operating system, you cannot install the nulled cpanel license. You can check by running this script:
 ```bash
